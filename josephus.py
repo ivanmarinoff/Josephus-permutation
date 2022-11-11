@@ -11,3 +11,12 @@ while len(place) > 0:
 
 dead_place = repr(new_place).replace(" ", "")
 print(dead_place)
+
+"""
+Input
+1 2 3 4 5 6 7
+3
+
+Output
+[3,6,2,7,5,1,4]
+"""
